@@ -1,7 +1,5 @@
 Final App Preview:
 
-https://01-basic-chat-app.streamlit.app/
-
 Construct three distinct applications, each showcasing an increasing level of complexity and functionality:
 
 - First, we'll Build a bot that mirrors your input to get a feel for the chat elements and how they work.
